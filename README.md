@@ -2,6 +2,10 @@
 
 PY32 ARM Cortex-M0+
 
+# Notice
+
+It is not made according to KLC specifications, but drawn according to personal habits.
+
 ## Support List
 
 - PY32F002AA1xM
